@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "queue-park-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "queue-park-api-db",
+			"database_id": "17721890-52a6-4b98-b5cd-20e60325b04b"
+		}
+	]
+}
